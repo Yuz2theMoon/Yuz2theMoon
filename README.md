@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about anything related to Java/Machine Learning Algorithms
 - 📫 How to reach me: yanchaoyu102@gmail.com
 - 😄 LinkedIn: https://www.linkedin.com/in/yanchao-yu-4936b7244/
-- 
+  
 ![](https://github-readme-stats.vercel.app/api?username=Yuz2theMoon&show_icons=true&theme=transparent)
 
 You are my ![Visitor Count](https://profile-counter.glitch.me/Yuz2theMoon/count.svg) visitor, Thank you! :smiley:	:smiley:	
